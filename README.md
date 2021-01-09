@@ -1,2 +1,3 @@
 # Training
-#This Repo IS For Full the stack course
+## PLEASE NOTE :
+This Repo IS For the Full  stack course
